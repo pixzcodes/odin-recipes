@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: rgb(96, 74, 116);
+}
+a{
+    background-color: rgb(68, 128, 128);
+    color: black;
+    font-size: 32px;
+}
+h1{
+    background-color: rgb(65, 65, 144);
+}
+h2{
+    background-color: rgb(61, 61, 97);
+}
+p{
+    background-color: rgb(61, 61, 97);
+}
+ul{
+    list-style-position: inside;
+    margin-right: 50px;
+}
+ol{
+    text-align: left;
+}
+
+.pizza-img{
+    height: auto;
+    width: 500px;
+}
+.poundcake-img{
+    height: auto;
+    width: 500px;
+}
+.lasagna-img{
+    height: auto;
+    width: 500px;
+}
